@@ -37,7 +37,7 @@
     object-fit: cover;
 }
 
-.sidebar_stat {
+.sidebar__stat {
     margin-top: 10px;
     justify-content: space-between;
     display: flex;
